@@ -1,0 +1,33 @@
+body {
+    fill:rgb(0, 89, 255);
+    text-align: center;
+}
+svg.gold {
+    fill:orange
+}
+p#timer-dice svg {
+    width: 64px;
+    height:64px
+}
+p#number-dice svg {
+    width: 64px;
+    height: 64px
+}
+p#color-dice svg {
+    width: 64px;
+    height: 64px
+}
+rect {
+    width: 64px;
+    height: 64px;
+}
+div.gold-buttons {
+    margin: 1em 1em 1em 1em
+}
+h1 {
+    line-height: 2.5em;
+}
+table {
+    width: 100%;
+    table-layout: fixed;
+}
