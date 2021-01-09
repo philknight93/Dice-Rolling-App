@@ -9,4 +9,4 @@ This mini dice rolling application supports dice rolling for the following board
   * [Description](https://boardgamegeek.com/boardgame/232988/castles-burgundy-dice-game)
   * [PDF game sheet](https://boardgamegeek.com/image/4166055/castles-burgundy-dice-game)
 
-To access the finished web-based dice rolling app in the `gh-pages` branch of this repo, click [here](https://philknight93.github.io/Dice-Rolling-App/)
+To access the finished web-based dice rolling app, click [here](https://philknight93.github.io/Dice-Rolling-App/)
