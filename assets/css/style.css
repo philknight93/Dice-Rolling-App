@@ -31,3 +31,8 @@ table {
     width: 100%;
     table-layout: fixed;
 }
+
+/* Prevent double tap to zoom on iOS devices */
+.disable-dbl-tap-zoom {
+    touch-action: manipulation;
+}
